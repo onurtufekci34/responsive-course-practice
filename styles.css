@@ -1,0 +1,20 @@
+/** This is a comment that the browser will ignore,
+* Put your CSS code into this file
+*/
+
+/** changing background color */
+.newborn{
+    background: gray;
+}
+
+/** changing font color */
+.newborn{
+    color: red;
+}
+/** adding border and text allign center and also margin and padding */
+.newborn{
+    border: 2px solid blue;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
